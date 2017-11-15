@@ -1,0 +1,294 @@
+* {
+	box-sizing: border-box;
+}
+
+body, html, #weather, main {
+	height: 100%;
+}
+
+body .middle{
+	background-image: url(../img/prov.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.top{
+	height:13%;
+	background-color:#65BABD;
+	color:#ffffff;
+	font-size: .8rem;
+	margin:0 auto;
+}
+
+.middle{
+	margin:0;
+	height:72%;
+	overflow: hidden;
+	color: #ffffff;
+}
+
+.bottom{
+	margin:0;
+	height:15%;
+}
+
+.bottom h2{
+	margin:0 auto;
+}
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+
+
+
+.imagehander{
+	z-index:20;
+	height:4rem;
+	float:left;
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+/*____________TOPLEFT SECTION________*/
+
+
+
+
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHTSECTION________*/
+
+.top h1{
+	position: relative, top:50%;
+	transform: translateY(-50%);
+	font-size:1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHT SECTION________*/
+/*____________TOPRIGHTSECTION________*/
+
+
+
+
+
+
+
+
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+.left{
+	float:left;
+	width: 50%;
+	height:100%;
+	text-align:center;
+	
+}
+
+
+
+
+
+.wdata-03{
+	font-size:1.5rem;
+	font-weight: bold;
+	margin:0 auto;
+}
+.wdata-04{
+	font-size:1.5rem;
+}
+.wdata-05{
+	font-size:1.5rem;
+}
+
+.imagehelp{
+	margin:0 auto;
+	display: block;
+	height:4.5rem;
+	
+}
+
+
+
+
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+/*____________LEFT SECTION________*/
+
+
+
+
+
+
+
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+.right{
+	float:right;
+	width: 50%;
+	height:100%;
+	text-align: center;
+}
+
+.wdata-06{
+	font-size: 4rem;
+	margin: 0 auto;
+}
+
+.wdata-07{
+	font-size:2.5rem;
+	margin: 0 auto;
+}
+
+.wdata-08{
+	font-size: 2.3rem;
+	margin: 0 auto;
+	padding-top: .5em;
+}
+
+.wdata-09{
+	font-size:2rem;
+	margin: 0 auto;
+	padding-top: 1em;
+	padding-bottom: 1em;
+
+
+}
+
+.wdata-10{
+	font-size: 2rem;
+	margin: 0 auto;
+	padding-top: 1em;
+}
+
+
+
+
+.imagehelper {
+	height:4rem;
+	margin: 0 auto;
+}
+
+.imagehelpin{
+	height:3rem;
+	margin:0 auto;
+}
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+/*______________RIGHT SECTION___________*/
+
+
+
+
+
+
+
+
+
+
+
+
+.cast1{
+	margin:0 auto;
+	float:left;
+	width:25%;
+	text-align:center;
+	font-size:.8rem;
+	background-color:#0A506A;
+	color:#ffffff;
+	height:100%;
+}
+
+.cast2{
+	margin:0 auto;
+	float:left;
+	width:25%;
+	text-align:center;
+	font-size:.8rem;
+	background-color:#188A94;
+	color:#ffffff;
+	height:100%;
+}
+
+.cast3{
+	margin:0 auto;
+	float:left;
+	width:25%;
+	text-align:center;
+	font-size:.8rem;
+	background-color: #65BABD;
+	color:#ffffff;
+	height:100%;
+}
+
+.cast4{
+	margin:0 auto;
+	float:left;
+	width:25%;
+	text-align:center;
+	font-size:.8rem;
+	background-color:#7FC6C6;
+	color:#ffffff;
+	height:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
